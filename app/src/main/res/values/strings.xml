@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Solar System</string>
+
+    <string name="mercury_number">Planet: 1</string>
+    <string name="mercury_in_Arabic">In Arabic: عطارد</string>
+    <string name="mercury_moons">Moons: 0</string>
+    <string name="mercury_size">Radius: 2,439.7 km</string>
+
+    <string name="venus_number">Planet: 2</string>
+    <string name="venus_in_Arabic">In Arabic: الزهرة</string>
+    <string name="venus_moons">Moons: 0</string>
+    <string name="venus_size">Radius: 6,051.8 km</string>
+
+    <string name="earth_number">Planet: 3</string>
+    <string name="earth_in_Arabic">In Arabic: الأرض</string>
+    <string name="earth_moons">Moons: 1</string>
+    <string name="earth_size">Radius: 6,371 km</string>
+
+    <string name="mars_number">Planet: 4</string>
+    <string name="mars_in_Arabic">In Arabic: المريخ</string>
+    <string name="mars_moons">Moons: 2</string>
+    <string name="mars_size">Radius: 3,389.5 km </string>
+
+    <string name="jupiter_number">Planet: 5</string>
+    <string name="jupiter_in_Arabic">In Arabic: المشتري</string>
+    <string name="jupiter_moons">Moons: 79</string>
+    <string name="jupiter_size">Radius: 69,911 km</string>
+
+    <string name="saturn_number">Planet: 6</string>
+    <string name="saturn_in_Arabic">In Arabic: زحل</string>
+    <string name="saturn_moons">Moons: 82</string>
+    <string name="saturn_size">Radius: 58,232 km</string>
+
+    <string name="uranus_number">Planet: 7</string>
+    <string name="uranus_in_Arabic">In Arabic: أورانوس</string>
+    <string name="uranus_moons">Moons: 27</string>
+    <string name="uranus_size">Radius: 25,362 km</string>
+
+    <string name="neptune_number">Planet: 8</string>
+    <string name="neptune_in_Arabic">In Arabic: نبتون</string>
+    <string name="neptune_moons">Moons: 14</string>
+    <string name="neptune_size">Radius: 24,622 km</string>
+
+    <string name="pluto_number">Planet: 9</string>
+    <string name="pluto_in_Arabic">In Arabic: بلوتو</string>
+    <string name="pluto_moons">Moons: 5</string>
+    <string name="pluto_size">Radius: 1,188.3 km</string>
+
+
+
+
+</resources>
